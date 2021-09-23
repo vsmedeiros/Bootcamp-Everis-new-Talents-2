@@ -152,7 +152,7 @@ namespace Dio.Bank
             Console.WriteLine("4 - Sacar.");
             Console.WriteLine("5 - Depositar.");
             Console.WriteLine("C - Limpar Tela");
-            Console.WriteLine("X - Sair e atualizar bancod e dados");
+            Console.WriteLine("X - Sair e atualizar banco e dados");
             string opcaoUsuario = Console.ReadLine();
             return opcaoUsuario.ToUpper();
         }
