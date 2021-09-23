@@ -1,0 +1,13 @@
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Aplicação transferência bancária\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.AssemblyInfoInputs.cache
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Aplicação transferência bancária\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.AssemblyInfo.cs
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Aplicação transferência bancária\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Aplicação transferência bancária\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.csprojAssemblyReference.cache
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Aplicação transferência bancária\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.exe
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Aplicação transferência bancária\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.deps.json
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Aplicação transferência bancária\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.runtimeconfig.json
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Aplicação transferência bancária\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.runtimeconfig.dev.json
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Aplicação transferência bancária\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.dll
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Aplicação transferência bancária\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.pdb
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Aplicação transferência bancária\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.dll
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Aplicação transferência bancária\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.pdb
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Aplicação transferência bancária\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.genruntimeconfig.cache

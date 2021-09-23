@@ -1,0 +1,7 @@
+PessoaFisica;Mateus;200;200
+PessoaFisica;Julia;200;300
+PessoaFisica;Julio;200;200
+PessoaJuridica;Caio;200;300
+PessoaFisica;Paulo;100;100
+PessoaFisica;Jorge;200;200
+PessoaFisica;Paulinha;200;200

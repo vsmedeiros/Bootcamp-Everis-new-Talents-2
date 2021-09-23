@@ -1,0 +1,16 @@
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Exemplo\Revisao\bin\Debug\net5.0\Revisao.exe
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Exemplo\Revisao\bin\Debug\net5.0\Revisao.deps.json
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Exemplo\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.json
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Exemplo\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.dev.json
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Exemplo\Revisao\bin\Debug\net5.0\Revisao.dll
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Exemplo\Revisao\bin\Debug\net5.0\ref\Revisao.dll
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Exemplo\Revisao\bin\Debug\net5.0\Revisao.pdb
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Exemplo\Revisao\obj\Debug\net5.0\Revisao.csproj.AssemblyReference.cache
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Exemplo\Revisao\obj\Debug\net5.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Exemplo\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfoInputs.cache
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Exemplo\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfo.cs
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Exemplo\Revisao\obj\Debug\net5.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Exemplo\Revisao\obj\Debug\net5.0\Revisao.dll
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Exemplo\Revisao\obj\Debug\net5.0\ref\Revisao.dll
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Exemplo\Revisao\obj\Debug\net5.0\Revisao.pdb
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Exemplo\Revisao\obj\Debug\net5.0\Revisao.genruntimeconfig.cache

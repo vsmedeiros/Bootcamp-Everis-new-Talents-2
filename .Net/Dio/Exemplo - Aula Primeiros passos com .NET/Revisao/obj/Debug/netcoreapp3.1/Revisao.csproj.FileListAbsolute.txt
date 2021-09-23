@@ -1,0 +1,13 @@
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Exemplo\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Exemplo\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Exemplo\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Exemplo\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Exemplo\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Exemplo\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Exemplo\Revisao\obj\Debug\netcoreapp3.1\Revisao.csprojAssemblyReference.cache
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Exemplo\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Exemplo\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Exemplo\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Exemplo\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Exemplo\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\Vitor\Desktop\Projetos\Bootcamps\Bootcamp-Everis-new-Talents-2\.Net\Dio\Exemplo\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache
